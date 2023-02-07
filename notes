@@ -1,0 +1,9 @@
+1. to access data from ethereum world
+we need to use web3 and set up a provider 
+with it.
+
+2.provider is what web3 uses to connect to 
+external network.
+
+3.metamask has provier of itself.
+
